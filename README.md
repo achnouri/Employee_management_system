@@ -1,7 +1,5 @@
 # 🏢 Employee Management System
 
-Desktop app for managing employee records using python
-
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-yellow.svg)
@@ -10,16 +8,16 @@ A modern desktop application for efficient employee record management with advan
 
 
 <p align="center">
-	<img src="https://github.com/achnouri/screen/screen1.png" alt="Preview" /><br>
+	<img src="https://github.com/achnouri/Employee_management_system/screen/screen1.png" alt="Preview" /><br>
 </p>
 
 <p align="center">
-	<img src="https://github.com/achnouri/screen/screen2.png" alt="Preview" /><br>
+	<img src="https://github.com/achnouri/Employee_management_system/screen/screen2.png" alt="Preview" /><br>
 </p>
 
 
 <p align="center">
-	<img src="https://github.com/achnouri/screen/screen3.png" alt="Preview" /><br>
+	<img src="https://github.com/achnouri/Employee_management_system/screen/screen3.png" alt="Preview" /><br>
 </p>
 
 
