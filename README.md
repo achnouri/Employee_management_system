@@ -8,7 +8,7 @@ A modern desktop application for efficient employee record management with advan
 
 
 <p align="center">
-	<img src="https://github.com/achnouri/Employee_management_system/screen1.png" alt="Preview" /><br>
+	<img src="[https://github.com/achnouri/Employee_management_system/screen1.png](https://github.com/achnouri/Employee_management_system/blob/main/screen1.png)" alt="Preview" /><br>
 </p>
 
 <p align="center">
