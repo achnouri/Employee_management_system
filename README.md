@@ -1,8 +1,6 @@
-# Employee_management_system
-Desktop app for managing employee records using python
-
-
 # 🏢 Employee Management System
+
+Desktop app for managing employee records using python
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
